@@ -1,0 +1,12 @@
+[submodule "vocabulary"]
+	path = vocabulary
+	url = https://github.com/LBDserver/vocabulary
+	branch = submission
+[submodule "lbdserver-client-api"]
+	path = lbdserver-client-api
+	url = https://github.com/ConSolidProject/lbdserver-client-api.git
+	branch = submission
+[submodule "sparql-satellite"]
+	path = sparql-satellite
+	url = https://github.com/ConSolidProject/sparql-satellite.git
+	branch = submission
