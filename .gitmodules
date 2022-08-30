@@ -10,3 +10,14 @@
 	path = sparql-satellite
 	url = https://github.com/ConSolidProject/sparql-satellite.git
 	branch = submission
+[submodule "SolidCommunity_Fuseki"]
+	path = SolidCommunity_Fuseki
+	url = https://github.com/LBD-Hackers/SolidCommunity_Fuseki.git
+[submodule "stack/infrastructure/daapi"]
+	path = stack/infrastructure/daapi
+	url = https://github.com/LBD-Hackers/daapi.git
+	branch = paper
+[submodule "stack/infrastructure/raapi"]
+	path = stack/infrastructure/raapi
+	url = https://github.com/LBD-Hackers/raapi.git
+	branch = paper
